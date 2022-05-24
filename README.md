@@ -13,14 +13,14 @@ Please set up a SQL database on your local machine to use in this exercise. For 
 docker pull postgres
 
 ## run Postgres in the background
-docker run \            
-    --name postgres \
-    -p 5455:5432 \
-    -e POSTGRES_USER=admin \
-    -e POSTGRES_PASSWORD=admin \
-    -e POSTGRES_DB=postgres \
-    -d \
-    postgres
+docker run \
+  --name postgres \
+  -p 5455:5432 \
+  -e POSTGRES_USER=admin \
+  -e POSTGRES_PASSWORD=admin \
+  -e POSTGRES_DB=postgres \
+  -d \
+  postgres
 ```
 
 You can then use the following URL to connect to your database: `postgres://admin:admin@localhost:5455/postgres`. Feel free to use a non-Postgres SQL flavor or run your database without Docker as well -- whatever is easiest for you.
