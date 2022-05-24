@@ -8,13 +8,15 @@ Additionally, this take-home problem relies on a couple of tools:
 * S3
 * A database
 
-Please set up a SQL database on your local machine to use in this exercise. For instance, you might use the official Postgres Docker image, which you can spin up and access with the following commands:
+Please set up a SQL database on your local machine to use in this exercise. For instance, you might use the official Postgres Docker image, which you can spin up and access as follows:
 
+Pull the image
 ```bash
-## pull the image
 docker pull postgres
+```
 
-## run Postgres in the background
+Run Postgres in the background
+```bash
 docker run \
   --name postgres \
   -p 5455:5432 \
