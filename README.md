@@ -2,7 +2,9 @@
 
 ## Setup
 
-This take-home problem relies on a couple of tools:
+First, please fork this repo so that you can check in any code you write when working on this problem.
+
+Additionally, this take-home problem relies on a couple of tools:
 * S3
 * A database
 
