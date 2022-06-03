@@ -49,8 +49,9 @@ We've supplied some data on students and their admissions results at different u
 
 Here are the main criteria we'll use to evaluate your solution:
 
-* Placeholder 1
-* Placeholder 2
-* Placeholder 3
-* Placeholder 4
+* Did you model the data thoughtfully?
+* Was your data ingestion code written cleanly? Documented? Tested?
+* Would your solution scale?
+* Was your query to compute the metric requested written clearly and correctly?
+
 
