@@ -6,7 +6,7 @@ First and foremost: Thank you so much for taking the time to work on this projec
 
 1. We've timed the exercise to take about two hours, so please try not to take any longer than that. We're not expecting perfection and are not trying to trick you!
 2. Please, please, _please_ reach out if you have any questions about the task, setup, or anything else. We'd be happy to help.
-3. We're planning to discuss your solution in your interviews, you please bring it with you and be prepared to discuss!
+3. Please send us your solution before the interview (preferably one day in advance). In addition, we're planning to discuss your solution in your interviews, so please bring it with you and be prepared to discuss!
 
 ## Setup
 
