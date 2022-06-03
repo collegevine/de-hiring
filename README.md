@@ -29,6 +29,12 @@ docker run \
 
 You can then use the following URL to connect to your database: `postgres://admin:admin@localhost:5455/postgres`. Feel free to use a non-Postgres SQL flavor or run your database without Docker as well -- whatever is easiest for you.
 
+## Task
+
+* Please ingest the data (supplied in the next section) into the database we've provided.
+* Do any data cleanup you think is appropriate and model it however you like!
+* Once you have the data ingested and modeled, please dump your database to a `.sql` file and check it into your fork of the repo.
+* Once you have the data in your database, please write a query that determines the number of students that applied to each of the schools with an acceptance rate >= 40%. (**Note: _Each_ meaning "one row per school"**)
 
 ## Data
 
@@ -39,9 +45,12 @@ We've supplied some data on students and their admissions results at different u
 * https://cv-de-hiring.s3.amazonaws.com/school_list_items.csv
 * https://cv-de-hiring.s3.amazonaws.com/schools.json
 
-## Task
+## What we're looking for
 
-Please ingest the data into the database we've provided. Do any data cleanup you think is appropriate and model it however you like! Once you have the data ingested and modeled, please dump your database to a `.sql` file and check it into your fork of the repo.
+Here are some of the criteria we'll be evaluating your assignment work on:
 
-Once you have the data in your database, please write a query that determines the number of students that applied to each of the schools with an acceptance rate >= 40%. (**Note: _Each_ meaning "one row per school"**)
+* Placeholder 1
+* Placeholder 2
+* Placeholder 3
+* Placeholder 4
 
