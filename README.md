@@ -47,7 +47,7 @@ We've supplied some data on students and their admissions results at different u
 
 ## What we're looking for
 
-Here is the main criteria we'll use to evaluate your solution:
+Here are the main criteria we'll use to evaluate your solution:
 
 * Placeholder 1
 * Placeholder 2
