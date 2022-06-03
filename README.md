@@ -31,7 +31,7 @@ You can then use the following URL to connect to your database: `postgres://admi
 
 ## Task
 
-* Please ingest the data (supplied in the next section) into the database we've provided.
+* Please ingest the data (supplied in the next section) into your database.
 * Do any data cleanup you think is appropriate and model it however you like!
 * Once you have the data ingested and modeled, please dump your database to a `.sql` file and check it into your fork of the repo.
 * Once you have the data in your database, please write a query that determines the number of students that applied to each of the schools with an acceptance rate >= 40%. (**Note: _Each_ meaning "one row per school"**)
