@@ -1,10 +1,19 @@
 # Take Home Problem
 
+## Logistics
+
+First and foremost: Thank you so much for taking the time to work on this project! We really appreciate it. A couple important notes:
+
+1. We've timed the exercise to take about two hours, so please try not to take any longer than that. We're not expecting perfection and are not trying to trick you!
+2. Please, please, _please_ reach out if you have any questions about the task, setup, or anything else. We'd be happy to help.
+3. We're planning to discuss your solution in your interviews, you please bring it with you and be prepared to discuss!
+
 ## Setup
 
 First, please fork this repo so that you can check in any code you write when working on this problem.
 
 Additionally, this take-home problem relies on a couple of tools:
+
 * S3
 * A database
 
@@ -49,9 +58,10 @@ We've supplied some data on students and their admissions results at different u
 
 Here are the main criteria we'll use to evaluate your solution:
 
-* Did you model the data thoughtfully?
-* Was your data ingestion code written cleanly? Documented? Tested?
-* Would your solution scale?
-* Was your query to compute the metric requested written clearly and correctly?
+* Thoughtfully considered data model
+* Code clarity
+* Code documentation and testing
+* Scalability of solution
+* Query accuracy
 
 
