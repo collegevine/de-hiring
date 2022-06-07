@@ -55,7 +55,6 @@ Here are the main criteria we'll use to evaluate your solution:
 
 * Thoughtfully considered data model
 * Code clarity
-* Code documentation and testing
 * Scalability of solution
 * Query accuracy
 
