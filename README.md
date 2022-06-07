@@ -12,11 +12,6 @@ First and foremost: Thank you so much for taking the time to work on this projec
 
 First, please fork this repo so that you can check in any code you write when working on this problem.
 
-Additionally, this take-home problem relies on a couple of tools:
-
-* S3
-* A database
-
 Please set up a SQL database on your local machine to use in this exercise. For instance, you might use the official Postgres Docker image, which you can spin up and access as follows:
 
 Pull the image
