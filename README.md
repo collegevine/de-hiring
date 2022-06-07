@@ -55,7 +55,8 @@ Here are the main criteria we'll use to evaluate your solution:
 
 * Thoughtfully considered data model
 * Code clarity
-* Scalability of solution
+* Code design and cleanliness (Is your code maintainable?)
+* Scalability of solution (How would your database / ETL process perform with different volumes of data, etc.?)
 * Query accuracy
 
 
